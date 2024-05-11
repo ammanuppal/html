@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #1e0770;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+h3{
+    margin-left: 20px;
+}
+h2{
+    margin: 20px;
+}
+nav {
+    background-color: #666;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+nav a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+section {
+    padding: 1px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+ol{
+    margin: 20px;
+
+}
+#home{
+    padding: 10px;
+    margin-left: 10px;
+    
+    
+
+}
+#submit{
+
+    padding: 10px;
+    margin-left: 10px;
+    
+}
+#Work{
+    padding: 10px;
+    margin-left: 10px;
+    
+}
+#interests{
+    padding: 10px;
+    margin-left: 10px;
+    
+}
+p{
+    margin-left: 20px
+}
+#about{
+    padding:10px;
+    margin-left: 20px;
+   }
+.pedit{
+    margin-left: 20px
+}
+
+#contactus{
+    padding: 20px;
+    background-color:lightgray;
+    margin-right: 250px;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 200px;
+}
